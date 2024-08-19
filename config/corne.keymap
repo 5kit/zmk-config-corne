@@ -51,7 +51,7 @@
             bindings = <
 &kp TAB    &kp F1       &kp F2         &kp F3            &kp F4          &kp F5             &kp F6      &kp F7                &kp F8         &kp F9           &kp F10       &kp BSPC
 &kp LCTRL  &kp GRAVE    &kp AMPERSAND  &kp CARET         &kp UNDERSCORE  &kp AT_SIGN        &kp K_NEXT  &kp C_BRIGHTNESS_INC  &kp C_BRI_DEC  &kp F11          &kp F12       &kp ENTER
-&kp LSHFT  &kp PERCENT  &kp DOLLAR     &kp PIPE          &kp TILDE       &kp EXCLAMATION    &kp K_PREV  &kp K_PLAY_PAUSE      &kp K_MUTE     &kp C_VOLUME_UP  &kp C_VOL_DN  &kp K_PWR
+&kp LSHFT  &kp PERCENT  &kp PND     &kp PIPE          &kp TILDE       &kp EXCLAMATION    &kp K_PREV  &kp K_PLAY_PAUSE      &kp K_MUTE     &kp C_VOLUME_UP  &kp C_VOL_DN  &kp K_PWR
                                        &kp LEFT_CONTROL  &mo 1           &kp SPACE          &kp SPACE   &mo 2                 &kp RALT
             >;
         };
